@@ -1,0 +1,14 @@
+.nav{
+    background-color: bisque;
+    display: flex;
+    height: 10vh;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-link{
+    text-decoration: none;
+    color: crimson;
+}
+nav .active{
+    color: blue;
+}

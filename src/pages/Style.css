@@ -1,0 +1,8 @@
+section{
+    display: grid;
+    grid-gap: 1rem;
+}
+article{
+    background-color: bisque;
+    padding: 2rem;
+}
